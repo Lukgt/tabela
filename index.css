@@ -1,0 +1,39 @@
+body { 
+
+    font-family: Arial, sans-serif; 
+
+    text-align: center; 
+
+} 
+
+  
+
+table { 
+
+    border-collapse: collapse; 
+
+    width: 80%; 
+
+    margin: 20px auto; 
+
+    background-color:rgba(224, 191, 254, 0.514); 
+
+} 
+
+  
+
+th, td { 
+
+    border: 1px solid #000000; 
+
+    padding: 8px; 
+
+} 
+
+  
+
+th { 
+
+    background-color: #8e62fd; 
+
+} 
